@@ -410,8 +410,7 @@ z:
 //      CASE       : 6
 //      DETAILS    : TO EXIT
 //*******************************************************
-
-    case 6:
+case 6:
     {
 	clearviewport();
 	rectangle(10,10,630,470);
